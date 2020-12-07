@@ -1,0 +1,13 @@
+2020-12-07 13:28:56,250 WARN  [SoapUI] Missing folder [C:\Users\AnandB\Desktop\Training\RESTAPIAssignmentAnand\ext] for external libraries
+2020-12-07 13:28:56,516 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\AnandB\soapui-settings.xml]
+2020-12-07 13:28:57,987 INFO  [WsdlProject] Loaded project from [file:/C:/Users/AnandB/Desktop/Training/RESTAPIAssignmentAnand/REST-Assignment-soapui-project.xml]
+2020-12-07 13:28:58,214 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2020-12-07 13:28:58,595 INFO  [SoapUITestCaseRunner] Running SoapUI tests in project [REST_Assignment]
+2020-12-07 13:28:58,598 INFO  [SoapUITestCaseRunner] Running Project [REST_Assignment], runType = SEQUENTIAL
+2020-12-07 13:28:58,630 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [TestCase 1]
+2020-12-07 13:28:58,673 INFO  [SoapUITestCaseRunner] running step [Token]
+2020-12-07 13:29:00,961 INFO  [SoapUITestCaseRunner] Assertion [Script Assertion] has status VALID
+2020-12-07 13:29:00,962 INFO  [SoapUITestCaseRunner] running step [Property Transfer]
+2020-12-07 13:29:01,022 ERROR [SoapUITestCaseRunner] Property Transfer failed, exporting to [C:\Users\AnandB\Desktop\Training\RESTAPIAssignmentAnand\target/surefire-reports\TestSuite_1-TestCase_1-Property_Transfer-0-FAILED.txt]
+2020-12-07 13:29:01,029 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [TestCase 1], time taken: 1751ms, status: FAILED
+2020-12-07 13:29:01,035 INFO  [SoapUITestCaseRunner] Project [REST_Assignment] finished with status [FAILED] in 2427ms
